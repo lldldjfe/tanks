@@ -112,3 +112,4 @@ def main():
     pygame.quit()
 
 main()
+print ("Конец игры")
